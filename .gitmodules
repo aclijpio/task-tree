@@ -1,0 +1,9 @@
+[submodule "configserver"]
+	path = configserver
+	url = https://github.com/aclijpio/configserver.git
+[submodule "eurekaserver"]
+	path = eurekaserver
+	url = https://github.com/aclijpio/eurekaserver.git
+[submodule "taskMaster"]
+	path = taskMaster
+	url = https://github.com/aclijpio/taskMaster.git
